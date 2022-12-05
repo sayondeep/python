@@ -16,4 +16,4 @@ def solve(name,id):
                 
 
 
-print(solve("Pulmonary embolism",3))    
+print(solve("Pulmonary embolism",2))
